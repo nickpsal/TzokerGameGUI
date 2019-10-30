@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TzokerGameGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TzokerGameGUI_jar</output-path>
+    <root id="archive" name="TzokerGameGUI.jar">
+      <element id="module-output" name="TzokerGameGUI" />
+    </root>
+  </artifact>
+</component>
